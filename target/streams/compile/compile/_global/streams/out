@@ -1,7 +1,0 @@
-[0m[[0m[31merror[0m] [0m[0m[31m-- [E007] Type Mismatch Error: /home/adam/pgk/projects/typing/Main.scala:9:37 --[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m9 |[0m    [33mval[0m [36mframe[0m = [33mnew[0m [35mJFrame[0m([31m"typing"[0m, [33mnew[0m [35mBorderLayout[0m())[0m
-[0m[[0m[31merror[0m] [0m[0m  |                                     [31m^^^^^^^^^^^^^^^^^^[0m[0m
-[0m[[0m[31merror[0m] [0m[0m  |                                  Found:    java.awt.BorderLayout[0m
-[0m[[0m[31merror[0m] [0m[0m  |                                  Required: java.awt.GraphicsConfiguration[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m

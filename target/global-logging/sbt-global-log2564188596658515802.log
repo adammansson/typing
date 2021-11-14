@@ -1,6 +1,0 @@
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, Some(c5e069e2-ddcf-4dde-8a99-45c58a5e20b8), Some(CommandSource(console0)))[0m
-[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: bloop.integrations.sbt.Offloader$$anon$1@450f0d89, check cycles: false, forcegc: true[0m
-[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/adam/pgk/projects/typing/target/scala-3.1.0/classes ...[0m
-[0m[[0m[32msuccess[0m] [0m[0mTotal time: 4 s, completed Nov 12, 2021, 4:40:23 PM[0m
-[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
