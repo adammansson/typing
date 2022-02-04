@@ -1,2 +1,2 @@
 # typing
-practice typing with swing gui
+Practice typing with Swing GUI, written in Scala.
